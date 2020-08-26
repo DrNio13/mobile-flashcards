@@ -1,4 +1,8 @@
-# Drawer navigation example
+# FlashCards game
+
+## Description 
+
+Simple card game with React Native and Expo for Udacity certification.
 
 <p>
   <!-- iOS -->
@@ -13,8 +17,4 @@
 
 - Install with `yarn` or `npm install`.
 - Run `expo start` to try it out.
-
-## 📝 Notes
-
-- This is a very basic example from the [react navigation](https://reactnavigation.org/) docs.
-- [Drawer navigation documentation](https://reactnavigation.org/docs/drawer-based-navigation).
+- For more info https://reactnative.dev/ https://expo.io/  
